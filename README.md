@@ -27,3 +27,9 @@ https://ec.europa.eu/eurostat/databrowser/view/DEMO_GIND/default/table?lang=en&c
 Data is unfortunately only until 2021, which for the analysis might be quite old. 
 
 There is no data of the vehicles by car brand, which prevents us from creating further analysis, e.g. popularity and sales of the cars by price/brand.
+
+## Storyboard
+The storyboard is in Tableau:
+https://public.tableau.com/views/CFElectricVehiclesintheEuropeanUnion/EVinEU?:language=en-US&:display_count=n&:origin=viz_share_link
+
+It doesn’t contain every step I took as part of the analysis in Python, but only those relevant to the final results.
